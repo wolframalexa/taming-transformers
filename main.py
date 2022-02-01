@@ -483,7 +483,7 @@ if __name__ == "__main__":
             default_modelckpt_cfg["params"]["monitor"] = model.monitor
             default_modelckpt_cfg["params"]["save_top_k"] = 3
 
-        modelckpt_cfg = lightning_config.modelcheckpoint or OmegaConf.create()
+        modelckpt_cfg = OmegaConf.create()
         modelckpt_cfg = OmegaConf.merge(default_modelckpt_cfg, modelckpt_cfg)
         trainer_kwargs["checkpoint_callback"] = instantiate_from_config(modelckpt_cfg)
 
