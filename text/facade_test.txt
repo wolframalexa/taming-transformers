@@ -1,1 +1,2 @@
-
+./images/cmp_b0001.jpg
+./images/cmp_b0002.jpg
