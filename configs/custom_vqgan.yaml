@@ -34,18 +34,10 @@ data:
       target: taming.data.custom.CustomTrain
       params:
         training_images_list_file: text/facade_training.txt
-<<<<<<< HEAD
         size: 256
-=======
-        size: 3
->>>>>>> ff9fdcf8b8396fd4821372352608c52925678279
     validation:
       target: taming.data.custom.CustomTest
       params:
         test_images_list_file: text/facade_test.txt
-<<<<<<< HEAD
         size: 256
-=======
-        size: 3
->>>>>>> ff9fdcf8b8396fd4821372352608c52925678279
-
+        
