@@ -551,6 +551,7 @@ if __name__ == "__main__":
             if trainer.global_rank == 0:
                 print("Summoning checkpoint.")
                 ckpt_path = os.path.join(ckptdir, "last.ckpt")
+		print("Checkpoint path:", ckpt_path)
                 trainer.save_checkpoint(ckpt_path)
 
         def divein(*args, **kwargs):
