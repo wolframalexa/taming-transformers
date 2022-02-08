@@ -181,6 +181,7 @@ if __name__ == "__main__":
 
     dsets, model, global_step = load_model_and_dset(config, ckpt, gpu, eval_mode)
     print(f"Global step: {global_step}")
+    print(dsets)
 
     data_loader = dsets.val_dataloader()
 #    print(dsets.datasets["validation"].conditional_builders)
