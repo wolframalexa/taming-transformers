@@ -3,7 +3,8 @@ import os
 import sys
 from itertools import product
 from pathlib import Path
-from typing import Literal, List, Optional, Tuple
+from typing import List, Optional, Tuple
+from typing_extensions import Literal
 
 import numpy as np
 import torch

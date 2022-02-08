@@ -1,0 +1,900 @@
+/content/taming-transformers/panos/panos/p (71).jpeg
+
+Top predictions:
+
+             bed: 21.71%
+           house: 19.27%
+            lamp: 12.42%
+        wardrobe: 10.36%
+           couch: 4.57%
+/content/taming-transformers/panos/panos/p (82).jpeg
+
+Top predictions:
+
+        wardrobe: 20.17%
+             bed: 15.93%
+             can: 13.30%
+      television: 8.75%
+           house: 3.52%
+/content/taming-transformers/panos/panos/p (100).jpeg
+
+Top predictions:
+
+       palm_tree: 7.61%
+          bridge: 7.09%
+             ray: 5.54%
+            crab: 4.88%
+           plain: 4.51%
+/content/taming-transformers/panos/panos/p (35).jpeg
+
+Top predictions:
+
+           house: 55.37%
+       palm_tree: 10.84%
+          castle: 6.52%
+           whale: 1.89%
+           plain: 1.85%
+/content/taming-transformers/panos/panos/p (84).jpeg
+
+Top predictions:
+
+            road: 39.98%
+       pine_tree: 12.06%
+          bridge: 8.73%
+           plate: 6.08%
+            tank: 4.64%
+/content/taming-transformers/panos/panos/p (16).jpeg
+
+Top predictions:
+
+           house: 21.05%
+        wardrobe: 13.47%
+           couch: 9.98%
+           table: 6.39%
+            bowl: 3.76%
+/content/taming-transformers/panos/panos/p (51).jpeg
+
+Top predictions:
+
+            road: 39.98%
+       pine_tree: 12.06%
+          bridge: 8.73%
+           plate: 6.08%
+            tank: 4.64%
+/content/taming-transformers/panos/panos/p (94).jpeg
+
+Top predictions:
+
+           table: 38.03%
+        wardrobe: 6.24%
+           chair: 5.53%
+   aquarium_fish: 3.06%
+           house: 2.92%
+/content/taming-transformers/panos/panos/p (5).jpeg
+
+Top predictions:
+
+          forest: 39.66%
+       pine_tree: 12.43%
+            road: 11.77%
+      lawn_mower: 6.65%
+           plate: 4.36%
+/content/taming-transformers/panos/panos/p (61).jpeg
+
+Top predictions:
+
+   aquarium_fish: 48.69%
+          beaver: 5.10%
+             ray: 4.86%
+        dinosaur: 4.65%
+        elephant: 3.17%
+/content/taming-transformers/panos/panos/p (95).jpeg
+
+Top predictions:
+
+          forest: 39.66%
+       pine_tree: 12.43%
+            road: 11.77%
+      lawn_mower: 6.65%
+           plate: 4.36%
+/content/taming-transformers/panos/panos/p (56).jpeg
+
+Top predictions:
+
+           house: 73.55%
+     willow_tree: 6.29%
+            road: 5.31%
+          castle: 3.59%
+        oak_tree: 1.50%
+/content/taming-transformers/panos/panos/p (88).jpeg
+
+Top predictions:
+
+        wardrobe: 41.19%
+             bed: 20.27%
+           house: 20.00%
+            bowl: 2.57%
+            pear: 1.94%
+/content/taming-transformers/panos/panos/p (17).jpeg
+
+Top predictions:
+
+           house: 39.95%
+        wardrobe: 10.29%
+           plate: 5.88%
+            bowl: 5.01%
+           table: 3.06%
+/content/taming-transformers/panos/panos/p (54).jpeg
+
+Top predictions:
+
+           house: 75.41%
+      lawn_mower: 3.05%
+          castle: 3.00%
+           plain: 1.16%
+       palm_tree: 1.08%
+/content/taming-transformers/panos/panos/p (44).jpeg
+
+Top predictions:
+
+            road: 34.29%
+             sea: 25.23%
+          bridge: 8.15%
+           plate: 4.95%
+      skyscraper: 4.47%
+/content/taming-transformers/panos/panos/p (4).jpeg
+
+Top predictions:
+
+            bowl: 11.02%
+       streetcar: 10.52%
+   aquarium_fish: 8.13%
+           house: 5.29%
+             bus: 4.68%
+/content/taming-transformers/panos/panos/p (20).jpeg
+
+Top predictions:
+
+   aquarium_fish: 48.69%
+          beaver: 5.10%
+             ray: 4.86%
+        dinosaur: 4.65%
+        elephant: 3.17%
+/content/taming-transformers/panos/panos/p (97).jpeg
+
+Top predictions:
+
+      skyscraper: 19.64%
+             bus: 11.66%
+      television: 9.49%
+            tank: 6.30%
+           train: 5.13%
+/content/taming-transformers/panos/panos/p (46).jpeg
+
+Top predictions:
+
+           house: 27.00%
+        wardrobe: 13.80%
+      skyscraper: 10.91%
+      television: 10.09%
+           plate: 4.40%
+/content/taming-transformers/panos/panos/p (73).jpeg
+
+Top predictions:
+
+           apple: 16.65%
+            bowl: 9.67%
+           clock: 8.25%
+        oak_tree: 6.98%
+       palm_tree: 5.76%
+/content/taming-transformers/panos/panos/p (45).jpeg
+
+Top predictions:
+
+             sea: 20.51%
+            bowl: 19.03%
+          bridge: 7.23%
+           whale: 6.04%
+           table: 5.14%
+/content/taming-transformers/panos/panos/p (28).jpeg
+
+Top predictions:
+
+       pine_tree: 16.79%
+            road: 12.81%
+        oak_tree: 7.34%
+          bridge: 5.22%
+        mountain: 5.16%
+/content/taming-transformers/panos/panos/p (7).jpeg
+
+Top predictions:
+
+       pine_tree: 19.94%
+          castle: 18.40%
+            road: 8.39%
+           house: 5.70%
+          bridge: 5.63%
+/content/taming-transformers/panos/panos/p (25).jpeg
+
+Top predictions:
+
+             sea: 36.54%
+          bridge: 13.15%
+             ray: 5.27%
+            crab: 5.10%
+            road: 4.37%
+/content/taming-transformers/panos/panos/p (21).jpeg
+
+Top predictions:
+
+             sea: 20.51%
+            bowl: 19.03%
+          bridge: 7.23%
+           whale: 6.04%
+           table: 5.14%
+/content/taming-transformers/panos/panos/p (34).jpeg
+
+Top predictions:
+
+             sea: 36.54%
+          bridge: 13.15%
+             ray: 5.27%
+            crab: 5.10%
+            road: 4.37%
+/content/taming-transformers/panos/panos/p (89).jpeg
+
+Top predictions:
+
+           house: 20.06%
+        wardrobe: 17.26%
+           chair: 12.51%
+           table: 5.88%
+            bowl: 5.81%
+/content/taming-transformers/panos/panos/p (10).jpeg
+
+Top predictions:
+
+           table: 35.15%
+        wardrobe: 15.52%
+           plain: 8.05%
+           house: 5.44%
+             bed: 4.30%
+/content/taming-transformers/panos/panos/p (68).jpeg
+
+Top predictions:
+
+      lawn_mower: 32.90%
+           plain: 14.73%
+          forest: 3.19%
+     willow_tree: 3.15%
+           plate: 2.98%
+/content/taming-transformers/panos/panos/p (27).jpeg
+
+Top predictions:
+
+      television: 26.10%
+           house: 18.69%
+           couch: 7.04%
+             bed: 5.91%
+            lamp: 3.79%
+/content/taming-transformers/panos/panos/p (98).jpeg
+
+Top predictions:
+
+       palm_tree: 33.72%
+            road: 29.77%
+      skyscraper: 7.35%
+          bridge: 2.21%
+           plain: 2.10%
+/content/taming-transformers/panos/panos/p (9).jpeg
+
+Top predictions:
+
+             sea: 51.28%
+             ray: 9.71%
+          bridge: 4.40%
+      skyscraper: 4.12%
+           plain: 4.08%
+/content/taming-transformers/panos/panos/p (12).jpeg
+
+Top predictions:
+
+           house: 11.24%
+            bowl: 9.81%
+          bridge: 6.94%
+           table: 6.54%
+   aquarium_fish: 6.39%
+/content/taming-transformers/panos/panos/p (85).jpeg
+
+Top predictions:
+
+          bridge: 56.93%
+           plate: 9.41%
+         bicycle: 7.71%
+           table: 4.08%
+      skyscraper: 2.85%
+/content/taming-transformers/panos/panos/p (77).jpeg
+
+Top predictions:
+
+            road: 16.26%
+           plate: 12.95%
+      lawn_mower: 9.71%
+           plain: 5.36%
+      skyscraper: 4.52%
+/content/taming-transformers/panos/panos/p (47).jpeg
+
+Top predictions:
+
+       pine_tree: 23.70%
+      lawn_mower: 14.19%
+        oak_tree: 10.14%
+          bridge: 9.99%
+            bowl: 8.36%
+/content/taming-transformers/panos/panos/p (79).jpeg
+
+Top predictions:
+
+         bicycle: 57.10%
+           plate: 8.52%
+       streetcar: 7.13%
+            road: 7.10%
+      motorcycle: 2.80%
+/content/taming-transformers/panos/panos/p (67).jpeg
+
+Top predictions:
+
+           house: 39.95%
+        wardrobe: 10.29%
+           plate: 5.88%
+            bowl: 5.01%
+           table: 3.06%
+/content/taming-transformers/panos/panos/p (15).jpeg
+
+Top predictions:
+
+           plate: 11.93%
+         bicycle: 11.70%
+           table: 11.29%
+            road: 8.83%
+      motorcycle: 5.78%
+/content/taming-transformers/panos/panos/p (76).jpeg
+
+Top predictions:
+
+           house: 29.22%
+           couch: 7.02%
+           table: 4.71%
+      skyscraper: 4.15%
+           mouse: 3.95%
+/content/taming-transformers/panos/panos/p (65).jpeg
+
+Top predictions:
+
+           couch: 32.64%
+             bed: 17.77%
+            lamp: 10.28%
+           house: 9.12%
+      television: 3.06%
+/content/taming-transformers/panos/panos/p (59).jpeg
+
+Top predictions:
+
+             sea: 51.28%
+             ray: 9.71%
+          bridge: 4.40%
+      skyscraper: 4.12%
+           plain: 4.08%
+/content/taming-transformers/panos/panos/p (60).jpeg
+
+Top predictions:
+
+            road: 26.35%
+          castle: 8.26%
+           plain: 6.94%
+       streetcar: 6.80%
+           plate: 6.05%
+/content/taming-transformers/panos/panos/p (37).jpeg
+
+Top predictions:
+
+             bed: 74.59%
+        wardrobe: 12.86%
+           house: 3.53%
+           couch: 3.08%
+      television: 1.87%
+/content/taming-transformers/panos/panos/p (30).jpeg
+
+Top predictions:
+
+           house: 54.49%
+          castle: 26.66%
+           plate: 2.60%
+           plain: 2.15%
+            road: 0.78%
+/content/taming-transformers/panos/panos/p (66).jpeg
+
+Top predictions:
+
+           house: 44.25%
+           couch: 9.60%
+      television: 8.61%
+           table: 5.91%
+           plate: 3.49%
+/content/taming-transformers/panos/panos/p (8).jpeg
+
+Top predictions:
+
+       palm_tree: 74.51%
+            road: 4.93%
+         bicycle: 1.80%
+          rocket: 1.46%
+           plate: 1.38%
+/content/taming-transformers/panos/panos/p (40).jpeg
+
+Top predictions:
+
+           table: 18.56%
+            lamp: 8.77%
+          bridge: 8.52%
+        keyboard: 6.90%
+            bowl: 6.52%
+/content/taming-transformers/panos/panos/p (72).jpeg
+
+Top predictions:
+
+           plate: 26.52%
+             can: 14.14%
+           table: 13.51%
+      television: 8.25%
+           chair: 6.63%
+/content/taming-transformers/panos/panos/p (26).jpeg
+
+Top predictions:
+
+            bowl: 11.94%
+            road: 10.82%
+          bridge: 10.16%
+           plate: 9.02%
+       streetcar: 5.31%
+/content/taming-transformers/panos/panos/p (42).jpeg
+
+Top predictions:
+
+             sea: 39.56%
+        flatfish: 14.41%
+           plain: 7.02%
+             ray: 6.68%
+           plate: 4.75%
+/content/taming-transformers/panos/panos/p (78).jpeg
+
+Top predictions:
+
+           house: 21.05%
+        wardrobe: 13.47%
+           couch: 9.98%
+           table: 6.39%
+            bowl: 3.76%
+/content/taming-transformers/panos/panos/p (75).jpeg
+
+Top predictions:
+
+          bridge: 14.99%
+   aquarium_fish: 7.29%
+            tank: 7.02%
+          bottle: 6.55%
+          rocket: 3.38%
+/content/taming-transformers/panos/panos/p (24).jpeg
+
+Top predictions:
+
+           house: 50.50%
+        wardrobe: 11.89%
+            lamp: 2.93%
+           table: 2.93%
+            bowl: 2.24%
+/content/taming-transformers/panos/panos/p (36).jpeg
+
+Top predictions:
+
+       streetcar: 9.21%
+         bicycle: 6.22%
+    pickup_truck: 4.81%
+           plate: 4.40%
+      skyscraper: 4.39%
+/content/taming-transformers/panos/panos/p (39).jpeg
+
+Top predictions:
+
+           plain: 18.45%
+           clock: 8.68%
+          castle: 5.09%
+           table: 3.76%
+       streetcar: 3.49%
+/content/taming-transformers/panos/panos/p (22).jpeg
+
+Top predictions:
+
+            road: 34.29%
+             sea: 25.23%
+          bridge: 8.15%
+           plate: 4.95%
+      skyscraper: 4.47%
+/content/taming-transformers/panos/panos/p (41).jpeg
+
+Top predictions:
+
+            bowl: 21.57%
+          bridge: 19.12%
+           table: 11.37%
+           plate: 6.22%
+         bicycle: 3.72%
+/content/taming-transformers/panos/panos/p (55).jpeg
+
+Top predictions:
+
+            bowl: 13.48%
+           train: 10.02%
+   aquarium_fish: 6.37%
+           table: 4.97%
+             bus: 3.91%
+/content/taming-transformers/panos/panos/p (23).jpeg
+
+Top predictions:
+
+            bowl: 21.57%
+          bridge: 19.12%
+           table: 11.37%
+           plate: 6.22%
+         bicycle: 3.72%
+/content/taming-transformers/panos/panos/p (92).jpeg
+
+Top predictions:
+
+   aquarium_fish: 39.20%
+           house: 34.53%
+      skyscraper: 3.22%
+             bed: 2.58%
+             bus: 1.88%
+/content/taming-transformers/panos/panos/p (62).jpeg
+
+Top predictions:
+
+      skyscraper: 40.74%
+           table: 16.29%
+             bed: 5.10%
+           plate: 4.91%
+            bowl: 3.94%
+/content/taming-transformers/panos/panos/p (50).jpeg
+
+Top predictions:
+
+       streetcar: 18.06%
+            road: 15.82%
+         bicycle: 6.51%
+          bridge: 5.08%
+           plate: 3.75%
+/content/taming-transformers/panos/panos/p (33).jpeg
+
+Top predictions:
+
+            bowl: 11.94%
+            road: 10.82%
+          bridge: 10.16%
+           plate: 9.02%
+       streetcar: 5.31%
+/content/taming-transformers/panos/panos/p (63).jpeg
+
+Top predictions:
+
+           couch: 37.83%
+           house: 27.59%
+             bed: 6.61%
+        wardrobe: 5.60%
+            bowl: 3.29%
+/content/taming-transformers/panos/panos/p (58).jpeg
+
+Top predictions:
+
+           table: 35.15%
+        wardrobe: 15.52%
+           plain: 8.05%
+           house: 5.44%
+             bed: 4.30%
+/content/taming-transformers/panos/panos/p (86).jpeg
+
+Top predictions:
+
+           train: 82.99%
+         bicycle: 1.52%
+       streetcar: 1.48%
+             bus: 1.05%
+           plain: 0.86%
+/content/taming-transformers/panos/panos/p (18).jpeg
+
+Top predictions:
+
+           house: 44.25%
+           couch: 9.60%
+      television: 8.61%
+           table: 5.91%
+           plate: 3.49%
+/content/taming-transformers/panos/panos/p (87).jpeg
+
+Top predictions:
+
+           house: 62.22%
+            tank: 7.50%
+          castle: 4.15%
+           plain: 2.88%
+      skyscraper: 1.46%
+/content/taming-transformers/panos/panos/p (29).jpeg
+
+Top predictions:
+
+   aquarium_fish: 9.79%
+            road: 9.60%
+          castle: 8.58%
+       streetcar: 5.46%
+            tank: 4.49%
+/content/taming-transformers/panos/panos/p (93).jpeg
+
+Top predictions:
+
+             sea: 31.14%
+            road: 26.14%
+          bridge: 6.61%
+           plate: 6.47%
+           table: 4.87%
+/content/taming-transformers/panos/panos/p (53).jpeg
+
+Top predictions:
+
+       streetcar: 35.81%
+      motorcycle: 9.73%
+            road: 9.43%
+             bus: 9.06%
+         bicycle: 7.09%
+/content/taming-transformers/panos/panos/p (43).jpeg
+
+Top predictions:
+
+             bus: 28.87%
+    pickup_truck: 12.75%
+            tank: 11.08%
+           train: 10.49%
+             bed: 5.26%
+/content/taming-transformers/panos/panos/p (31).jpeg
+
+Top predictions:
+
+       pine_tree: 16.79%
+            road: 12.81%
+        oak_tree: 7.34%
+          bridge: 5.22%
+        mountain: 5.16%
+/content/taming-transformers/panos/panos/p (3).jpeg
+
+Top predictions:
+
+       palm_tree: 33.72%
+            road: 29.77%
+      skyscraper: 7.35%
+          bridge: 2.21%
+           plain: 2.10%
+/content/taming-transformers/panos/panos/p (48).jpeg
+
+Top predictions:
+
+       palm_tree: 20.73%
+             sea: 10.23%
+            road: 8.62%
+     willow_tree: 8.09%
+        oak_tree: 7.84%
+/content/taming-transformers/panos/panos/p (74).jpeg
+
+Top predictions:
+
+           table: 11.31%
+            tank: 9.38%
+           couch: 8.28%
+      television: 7.18%
+            bowl: 6.50%
+/content/taming-transformers/panos/panos/p (52).jpeg
+
+Top predictions:
+
+        wardrobe: 34.71%
+           house: 13.21%
+             bed: 7.16%
+           couch: 5.59%
+           plate: 3.17%
+/content/taming-transformers/panos/panos/p (13).jpeg
+
+Top predictions:
+
+       palm_tree: 20.73%
+             sea: 10.23%
+            road: 8.62%
+     willow_tree: 8.09%
+        oak_tree: 7.84%
+/content/taming-transformers/panos/panos/p (1).jpeg
+
+Top predictions:
+
+   aquarium_fish: 44.54%
+      television: 9.70%
+           house: 8.17%
+             bus: 6.89%
+            lamp: 5.01%
+/content/taming-transformers/panos/panos/p (90).jpeg
+
+Top predictions:
+
+       palm_tree: 74.51%
+            road: 4.93%
+         bicycle: 1.80%
+          rocket: 1.46%
+           plate: 1.38%
+/content/taming-transformers/panos/panos/p (81).jpeg
+
+Top predictions:
+
+           plate: 11.91%
+      maple_tree: 9.42%
+           table: 6.48%
+           clock: 4.84%
+       streetcar: 3.77%
+/content/taming-transformers/panos/panos/p (83).jpeg
+
+Top predictions:
+
+            road: 20.37%
+      motorcycle: 11.63%
+             bus: 7.02%
+           plain: 6.05%
+           clock: 3.74%
+/content/taming-transformers/panos/panos/p (80).jpeg
+
+Top predictions:
+
+           plate: 11.93%
+         bicycle: 11.70%
+           table: 11.29%
+            road: 8.83%
+      motorcycle: 5.78%
+/content/taming-transformers/panos/panos/p (70).jpeg
+
+Top predictions:
+
+             bed: 40.84%
+           house: 16.60%
+        wardrobe: 9.13%
+           couch: 5.12%
+            tank: 3.01%
+/content/taming-transformers/panos/panos/p (11).jpeg
+
+Top predictions:
+
+           house: 45.08%
+        wardrobe: 8.42%
+            bowl: 4.37%
+           plate: 3.87%
+          beetle: 3.32%
+/content/taming-transformers/panos/panos/p (96).jpeg
+
+Top predictions:
+
+            bowl: 11.02%
+       streetcar: 10.52%
+   aquarium_fish: 8.13%
+           house: 5.29%
+             bus: 4.68%
+/content/taming-transformers/panos/panos/p (2).jpeg
+
+Top predictions:
+
+   aquarium_fish: 9.79%
+            road: 9.60%
+          castle: 8.58%
+       streetcar: 5.46%
+            tank: 4.49%
+/content/taming-transformers/panos/panos/p (38).jpeg
+
+Top predictions:
+
+           house: 50.50%
+        wardrobe: 11.89%
+            lamp: 2.93%
+           table: 2.93%
+            bowl: 2.24%
+/content/taming-transformers/panos/panos/p (14).jpeg
+
+Top predictions:
+
+       pine_tree: 23.70%
+      lawn_mower: 14.19%
+        oak_tree: 10.14%
+          bridge: 9.99%
+            bowl: 8.36%
+/content/taming-transformers/panos/panos/p (6).jpeg
+
+Top predictions:
+
+             sea: 31.14%
+            road: 26.14%
+          bridge: 6.61%
+           plate: 6.47%
+           table: 4.87%
+/content/taming-transformers/panos/panos/p (19).jpeg
+
+Top predictions:
+
+           couch: 32.64%
+             bed: 17.77%
+            lamp: 10.28%
+           house: 9.12%
+      television: 3.06%
+/content/taming-transformers/panos/panos/p (32).jpeg
+
+Top predictions:
+
+      television: 26.10%
+           house: 18.69%
+           couch: 7.04%
+             bed: 5.91%
+            lamp: 3.79%
+/content/taming-transformers/panos/panos/p (91).jpeg
+
+Top predictions:
+
+       pine_tree: 19.94%
+          castle: 18.40%
+            road: 8.39%
+           house: 5.70%
+          bridge: 5.63%
+/content/taming-transformers/panos/panos/p (99).jpeg
+
+Top predictions:
+
+        wardrobe: 66.79%
+           house: 14.66%
+             bed: 2.59%
+           plain: 1.86%
+      television: 1.63%
+/content/taming-transformers/panos/panos/p (57).jpeg
+
+Top predictions:
+
+           house: 45.08%
+        wardrobe: 8.42%
+            bowl: 4.37%
+           plate: 3.87%
+          beetle: 3.32%
+/content/taming-transformers/panos/panos/p (69).jpeg
+
+Top predictions:
+
+             sea: 48.78%
+           plain: 9.10%
+           cloud: 5.68%
+          castle: 4.84%
+          bridge: 4.55%
+/content/taming-transformers/panos/panos/p (49).jpeg
+
+Top predictions:
+
+           house: 11.24%
+            bowl: 9.81%
+          bridge: 6.94%
+           table: 6.54%
+   aquarium_fish: 6.39%
+/content/taming-transformers/panos/panos/p (64).jpeg
+
+Top predictions:
+
+        wardrobe: 29.70%
+           house: 17.03%
+   aquarium_fish: 7.20%
+     willow_tree: 3.73%
+            lamp: 3.73%
