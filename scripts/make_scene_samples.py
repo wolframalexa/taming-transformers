@@ -184,7 +184,7 @@ if __name__ == "__main__":
     print(dsets)
 
     data_loader = dsets.val_dataloader()
-    print(dsets.datasets["validation"])
+    print(dir(dsets.datasets["validation"]))
     print(dsets.datasets["validation"].conditional_builders)
     conditional_builder = dsets.datasets["validation"].conditional_builders[conditional]
 
