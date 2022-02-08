@@ -28,7 +28,8 @@ def run_conditional(model, dsets, outdir, top_k, temperature, batch_size=1):
         indices = list(range(start_idx, start_idx+batch_size))
         example = default_collate([dset[i] for i in indices])
 
-        x = model.get_input("image", example, 0).to(model.device)
+        x = model.get_input("image", example).to(model.device)
+	print(example)
         for i in range(x.shape[0]):
             save_image(x[i], os.path.join(outdir, "originals",
                                           "{:06}.png".format(indices[i])))
