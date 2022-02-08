@@ -184,7 +184,8 @@ if __name__ == "__main__":
     print(dsets)
 
     data_loader = dsets.val_dataloader()
-#    print(dsets.datasets["validation"].conditional_builders)
+    print(dsets.datasets["validation"])
+    print(dsets.datasets["validation"].conditional_builders)
     conditional_builder = dsets.datasets["validation"].conditional_builders[conditional]
 
     outdir = Path(opt.outdir).joinpath(f"{global_step:06}_{opt.top_k}_{opt.temperature}")
